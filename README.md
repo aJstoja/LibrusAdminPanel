@@ -1,5 +1,7 @@
 # Librus AdminPanel
 
+<h1><b>OBECNIE JEST PRZERWA W DOSTARCZANIU NOWYCH WERSJI, ZA JAKIEŚ 23 MIES. WRZUCE UPDATE-A Z DWOMA KODAMI: OPEN-SOURCE I TAKI NA LICENCJE ZA REKLAMY CO POZWALA NA... zobaczycie co (;</b></h1>
+
 To roszszerzenie służy do edytowania ocen w librusie, dodawania nowych ocen, usuwania przedmiotów dodawania ich lub po prostu zarządzanie wszystkim co się da w librusie.
 
 ## Zakładki
